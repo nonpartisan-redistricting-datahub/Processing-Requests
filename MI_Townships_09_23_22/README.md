@@ -42,5 +42,8 @@ Akron, Almer, Arbela, Columbia, Dayton, Denmark, Elkland, Ellington, Elmwood, Fa
 - 2020 PL data:
     - Link: https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Michigan/
     - Note: Download "mi2020.pl.zip" and then unzip the file
+    
+## Processing Steps
+- See attached notebook
 
 #### Note: A full "raw-from-source" file is also available upon request. Please email info@redistrictingdatahub.org
