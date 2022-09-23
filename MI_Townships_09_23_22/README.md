@@ -36,12 +36,13 @@ Argyle, Austin, Bridgehampton, Buel, Custer, Delaware, Elk, Elmer, Evergreen, Fl
 Akron, Almer, Arbela, Columbia, Dayton, Denmark, Elkland, Ellington, Elmwood, Fairgrove, Fremont, Gilford, Indianfields, Juniata, Kingston, Koylton, Millington, Novesta, Tuscola, Vassar, Watertown, Wells, Wisner
 
 ## Links to Download Raw Files
-- 2010 PL data
-    - Link: https://www2.census.gov/census_2010/01-Redistricting_File--PL_94-171/Michigan/
-    - Note: Download "mi2010.pl.zip" and then unzip the file
-- 2020 PL data:
-    - Link: https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Michigan/
-    - Note: Download "mi2020.pl.zip" and then unzip the file
+- Create a "raw-from-source" folder and add the following files:
+    - 2010 PL data
+        - Link: https://www2.census.gov/census_2010/01-Redistricting_File--PL_94-171/Michigan/
+        - Note: Download "mi2010.pl.zip" and then unzip the file
+    - 2020 PL data:
+        - Link: https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Michigan/
+        - Note: Download "mi2020.pl.zip" and then unzip the file
     
 ## Processing Steps
 - See attached notebook
