@@ -19,7 +19,7 @@
     - RI (Congressional and State Legislative)
     - VA (Congressional and State Legislative)
     - WA (Congressional and State Legislative)
-- Due to this nuance, we thought it would be easier to produce a dataset with the districts that used adjusted data and their adjusted population, rather than adding in an "adjusted population" column to the national block-assignment file.
+- Due to this nuance, we thought it would make sense to produce a dataset with the districts that used adjusted data and their adjusted population, rather than adding in an "adjusted population" column to the national block-assignment file, where the adjusted population would not be relevant in all cases.
 - Furthermore, RI did not release block-level adjusted data, but they did release their district-level adjusted populations.
 
 ## Approach:
