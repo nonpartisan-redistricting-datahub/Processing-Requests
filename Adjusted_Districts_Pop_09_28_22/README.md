@@ -37,7 +37,6 @@
 - State Block-Level Adjusted Populations for all States except RI (where data not available)
   - Produced using official files on the RDH website, processed files available upon request.   
 - [National BAF for 2022 Districts](https://redistrictingdatahub.org/dataset/national-block-assignment-file-for-2022-state-legislative-and-congressional-districts/)
-- 
     
 ## Processing Steps
 - See attached notebook
