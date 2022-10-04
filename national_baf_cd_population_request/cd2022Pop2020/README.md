@@ -21,4 +21,4 @@ Note that some states adjust their redistricting data, and that processing can b
 ## Processing Steps:
 See attached notebook
 
-**Note: A full "raw-from-source" file is also available upon request. Please email info@redistrictingdatahub.org for more info.
+**Note: A full "raw-from-source" file is not available because the file is comprised of PL data for every state. If you require a raw-from-source to recreate our work, please reach out.** Please email info@redistrictingdatahub.org for more info.
