@@ -17,6 +17,6 @@
 - [National BAF for 2022 Districts](https://redistrictingdatahub.org/dataset/national-block-assignment-file-for-2022-state-legislative-and-congressional-districts/)
     
 ## Processing Steps
-- See [Github notebook](https://github.com/nonpartisan-redistricting-datahub/Processing-Requests)
+- See [Github notebook](https://github.com/nonpartisan-redistricting-datahub/Processing-Requests/blob/main/National_Precinct_Bound_10_07_2022/main.ipynb)
 
 #### Note: A full "raw-from-source" file is also available upon request. Please email info@redistrictingdatahub.org
