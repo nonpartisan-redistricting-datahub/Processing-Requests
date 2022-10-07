@@ -6,6 +6,8 @@
 ## Approach:
 - For every state load in precinct boundary and election result shapefile originally from VEST hosted on the RDH website.
 - Select a unique identifier, column "UNIQUE_ID" for every state.
+    - In instances where a unique column (besides an election result or geometry field) did not exist, a unique column was created using a combination of the two columns with the first and second closest columns to being a unique column (e.g. The dataset has 200 entries, and four non-election/geometry columns with unique counts of 175, 180, and 125. The two columns to create a unique column would be the columns with counts 180 and 175). If the UNIQUE_ID column is still not unique, a unique number (based on count/location in dataframe) is added to ensure uniqueness within the state. Additionally, the state abbreviation is appended to the front of the UNIQUE_ID column to ensure uniqueness, nationally.
+    
 - Use the pandas concat() function to join all states together with columns "STATEABRV", "UNIQUE_ID", "geometry".
 - Check the file
 - Export the file   
