@@ -1,4 +1,4 @@
-# 2022 Congressional Districts with Total Population from Census PL file 09/30/22
+# 2022 Congressional Districts with Total Population from Census PL file 09/28/22
 
 ## Background:
 We received a data request asking for total populations of the 2022 congressional districts.
