@@ -19,4 +19,4 @@
 - [California CVAP Data Disaggregated to the 2020 Block Level (2020)](https://redistrictingdatahub.org/dataset/california-cvap-data-disaggregated-to-the-2020-block-level-2020/)
 - [VEST 2020 California precinct and election results](https://redistrictingdatahub.org/dataset/vest-2020-california-precinct-and-election-results/) via Voting and Election Science Team [(VEST)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7760H)
 
-You can find the final file on the Redistricting Data Hub website here: https://redistrictingdatahub.org/dataset/sonoma-county-california-2020-voter-statistics-and-unregistered-voter-estimates-on-2020-precincts/
+You can find the final file on the Redistricting Data Hub website [here](https://redistrictingdatahub.org/dataset/sonoma-county-california-2020-voter-statistics-and-unregistered-voter-estimates-on-2020-precincts/)
