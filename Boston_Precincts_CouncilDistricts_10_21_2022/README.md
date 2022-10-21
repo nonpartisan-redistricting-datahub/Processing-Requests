@@ -12,12 +12,19 @@
 
 ## Links to datasets used:
 [Massachusetts block PL 94-171 2010](https://redistrictingdatahub.org/dataset/massachusetts-block-pl-94171-2010/)
+
 [Massachusetts block boundaries (2010)](https://redistrictingdatahub.org/dataset/massachusetts-block-boundaries-2010/)
+
 [Massachusetts Block boundaries (2020)](https://redistrictingdatahub.org/dataset/massachusetts-block-boundaries-2020/)
+
 [Massachusetts block PL 94-171 2020](https://redistrictingdatahub.org/dataset/massachusetts-block-pl-94171-2020/)
+
 [2021-2030 MA HastaqDNA Population Projections joined to 2020 Census Blocks, P2](https://redistrictingdatahub.org/dataset/20212030-ma-hastaqdna-population-projections-joined-to-2020-census-blocks-p2/)
+
 [Massachusetts State boundaries (2020)](https://redistrictingdatahub.org/dataset/massachusetts-state-boundaries-2020/)
+
 [Boston Precincts](https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::boston-precinct-boundaries/explore?location=42.314086%2C-70.970025%2C11.54)
+
 [Boston City Council Districts](https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::city-council-districts-view/explore?location=42.312169%2C-71.072913%2C11.82)
 
 For a full 'raw-from-source' file, contact info@redistrictingdatahub.org
