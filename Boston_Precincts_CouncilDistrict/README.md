@@ -1,4 +1,4 @@
-# Boston_Precincts_CouncilDistricts_10_21_2022
+# Boston_Precincts_CouncilDistricts
 
 ## Background:
 - We received a request for aggregated 2010 and 2020 Census data and population projections on City Council Districts (2013-2021 and 2022) and Precincts from the Boston City Council.
