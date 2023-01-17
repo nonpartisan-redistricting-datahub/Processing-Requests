@@ -7,7 +7,7 @@
 - Combine all of the block-level VEST disaggregated 2020 general election results
 - Filter down to the votes for just Biden and Trump
 - Join to the national BAF
-- Aggregate into new districts
+- Aggregate to new districts
 - Create the vote share percentages
 
 ## Links to datasets used:
