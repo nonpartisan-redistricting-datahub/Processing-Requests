@@ -12,6 +12,6 @@
 ## Sources
 - Block Level PL data for each state (ex. [Washington block PL 94-171 2020](https://redistrictingdatahub.org/dataset/washington-block-pl-94171-2020/))
 - AIANHH shapefile for each state (where applicable) (ex. [Washington AIANNH boundaries (2020)](https://redistrictingdatahub.org/dataset/washington-aiannh-boundaries-2020/))
-- County shapefile for each state (ex. [Washington County boundaries (2020)])(https://redistrictingdatahub.org/dataset/washington-county-boundaries-2020/)
+- County shapefile for each state (ex. [Washington County boundaries (2020)](https://redistrictingdatahub.org/dataset/washington-county-boundaries-2020/))
 
 ### Note: Please email info@redistrictingdatahub.org for any questions
