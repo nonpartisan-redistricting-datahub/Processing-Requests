@@ -7,7 +7,8 @@
 - Load in ZCTA BAF from the Census and PL data and join together.
 - Query PL data to the fields listed above and rename.
 - For blocks where the ZCTA assignment is null, assign 'NO ZCTA'.
-- Group data by ZCTAs to aggregate block level data to ZCTAs.
+- Retrieve county name (using FIPS) from the Census.
+- Group data by ZCTAs for each county to aggregate block level data to ZCTAs. Please note that this means that ZCTAs which cross counties would only be shown in partiality and not for the entire ZCTA.
 
 ## Links to datasets used:
 - [Wisconsin block PL 94-171 2020 from the RDH](https://redistrictingdatahub.org/dataset/wisconsin-block-pl-94171-2020/)
