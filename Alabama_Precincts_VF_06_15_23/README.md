@@ -4,7 +4,7 @@
 - Received a request for a block assignment file linking census blocks to Alabama's post-redistricting precincts.
 
 ## Approach:
-- Load in a geocoded voterfile.
+- Load in a geocoded voterfile from 04/03/2023.
 - Remove voters without a precinct assignment and those for which the county of the geocoded block does not match the county tied to their record (2,443 individuals).
 - Append the 3-digit County FIPs to the precinct name.
 - Group the voterfile by block geoid20, recording the all the different precinct names, and the number of times they occur, for every individual geocoded to a particular block.
